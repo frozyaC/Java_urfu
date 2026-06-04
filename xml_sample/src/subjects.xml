@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><subjects>
+                
+    
+    
+    <subject>
+                                
+        
+        
+        <name>Русский языык</name>
+                                
+        
+        
+        <teacher>Мария Ивановна</teacher>
+                            
+    
+    
+    </subject>
+                
+    
+    
+    <subject>
+                                
+        
+        
+        <name>Алгебра</name>
+                                
+        
+        
+        <teacher>Илья Федорович</teacher>
+                            
+    
+    
+    </subject>
+                
+    
+    
+    <subject>
+                                
+        
+        
+        <name>Геометрия</name>
+                                
+        
+        
+        <teacher>Илья Антонович</teacher>
+                            
+    
+    
+    </subject>
+                
+    
+    
+    <subject>
+                                
+        
+        
+        <name>Физкультура</name>
+                                
+        
+        
+        <teacher>Михаил Дмитриевич</teacher>
+                            
+    
+    
+    </subject>
+        
+    
+
+</subjects>

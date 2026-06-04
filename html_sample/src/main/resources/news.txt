@@ -1,0 +1,10 @@
+Новость: 21.02.2026. New problems 2200-2227
+Новость: 17.01.2025. New problems 2174-2199
+Новость: 22.01.2024. Compilers update
+Новость: 27.07.2023. New problems 2158-2173
+Новость: 22.01.2022. Compilers update
+Новость: 26.01.2021. Judgement server upgrade
+Новость: 1.09.2020. Compilers update
+Новость: 1.03.2020. Judgement server upgrade
+Новость: 25.09.2018. New problem 1897 Alice and Bob and a string
+Новость: 30.04.2018. Problems 1075 Thread in a Space and 1285 Thread in a Hyperspace. Tests added
